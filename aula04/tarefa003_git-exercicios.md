@@ -6,24 +6,34 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 1. Qual o comando para obter a versão instalada do Git?
 *R: git --version*
 2. Qual o efeito da execução de cada um dos comandos abaixo?
+
   a. git help
 *R: Faz a listagem de comandos que podem ser executados pelo git.*
+
   b. git help checkout
   *R: Abre um arquivo local .html com instruções detalhadas sobre o comando checkout* 
+
   c. git help merge
   *R: Abre um arquivo local .html com instruções detalhadas sobre o comando merge*
+
   d. git init
   *R: Cria uma pasta no diretório atual chamada ".git" indicando que foi inicializado um repositório git naquele diretório*
+
   e. git add --all
   *R: Adiciona ao git todos os arquivos dentro do diretório que não estão com versionamento.*
+
   f. git add -u
   *R: Atualiza (-u) todos os arquivos do diretório sem adicionar novos arquivos não versionados ao versionamento, apenas atualizando aqueles que já estão sendo versionados.*
+
   g. git config -l
   *R: Lista todas as variáveis contidas no arquivo de configurações do git, além de também listar os valores de cada uma.*
+
   h. git mv a.txt b.txt
   *R: Renomeia o arquivo a.txt para b.txt no controle de versionamento.*
+
   i. git reset --hard
   *R: Reseta todo o histórico de alterações para um determinado commit passado como parâmetro ou, caso não tenha parâmetros, reseta para o primeiro controle de versionamento estabelecido.*
+
   j. git log -27
   *R: Mostra o histórico de commits feitos com dados sobre os commits (branches, autor, data). O parâmetro -27 passado limita o resultado dos logs a no máximo 27 commits.*
 
