@@ -73,7 +73,7 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 *R: SHA significa Secure Hash Algoritm e o SHA1 é usado para gerar um hash de um determinado arquivo de modo que qualquer alteração nele gera um novo hash. A vantagem de usar o SHA1 é a segurança trazida, já que os arquivos estão criptografados.*
 
 17. Qual a palavra para indicar o último _commit_ em vez do valor de hash SHA1 correspondente?
-*R: HEAD~1*
+*R: HEAD*
 
 18. Quando se cria dois arquivos usando um editor de texto qualquer e, na sequência, executamos o comando **git add -u**, os dois arquivos criados passam de _untracked_ para _new file_?
 *R: Não.*
