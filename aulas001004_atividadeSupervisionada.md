@@ -1,6 +1,8 @@
 # Feedback - Campus Party
 
-## Usando inteligência de fontes abertas para hackear sistemas
+Estive na Campus Party presencialmente, participei do camping e gostei bastante do evento. Lá encontrei pela primeira vez diversos colegas de trabalho, o que acabou contribuindo bastante para meu network. Apesar de ter gostado bastante senti que as palestras, em sua maioria, eram muito introdutórias mesmo aquelas que tratavam sobre assuntos mais técnicos. Sinto que o nível introdutório das palestras foi intencional, dado que o público alvo da CP é em sua maioria jovens do ensino médio.
+
+## Usando inteligência de fontes abertas para hackear sistemas (17/06)
 
 Palestra feita por Yuri Aló que é líder técnico do time de cibersegurança da Intelliway, pentester e meu chefe onde trabalho.  Nessa palestra foi abordado como informações disponíveis na surface podem ser utilizadas para invadir sistemas, tudo isso exemplificado em uma exploração real feita pelo palestrante em suas atividades laborais.
 
@@ -8,7 +10,7 @@ No decorrer da palestra, foi mostrada a tela de login de uma aplicação de uma 
 
 Uma vez que o palestrante tinha a senha do desenvolvedor da plataforma, foram feitas tentativas de login utilizando o email e senha encontrados, mas não foi obtido sucesso. Apesar disso, o palestrante seguiu tentando a mesma senha, mas com usuários padrões de aplicações como "root" e "admin"  e foi aí que obteve sucesso. O usuário "root" e a senha do email do desenvolvedor da plataforma deram acesso de administrador ao sistema, garantindo ao palestrante controle quase que absoluto das funcionalidades da empresa. 
 
-## Como explodir uma usina de enriquecimento de urânio? Do ataque real à reprodução em casa
+## Como explodir uma usina de enriquecimento de urânio? Do ataque real à reprodução em casa (16/06)
 
 Palestra feita por João Moreno que é analista de cibersegurança, pentester, devops e meu colega de trabalho na Intelliway.  Nessa palestra foi abordado o que foi o stuxnet, como ele foi desenvolvido e qual a finalidade do malware. Além disso, também foi demonstrado pelo palestrante como ele reproduziu um ataque similar em outro equipamento eletrônico.
 
