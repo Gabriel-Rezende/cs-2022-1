@@ -6,7 +6,7 @@ class IEndereco(ABC):
 
     @abstractmethod
     def consulta_por_cep(self, cep):
-
+        pass
 
 class IEnderecoImpl(IEndereco):
 
@@ -22,7 +22,7 @@ class Pais():
 
 class Estado():
 
-    def __init__(self, sigla, nome, pais)
+    def __init__(self, sigla, nome, pais):
         self.__sigla = sigla
         self.nome = nome
         self.pais = pais
@@ -53,7 +53,7 @@ class Endereco():
         self.tipo_endereco = tipo_endereco
 
 
-class TipoEndereco(Enum)
+class TipoEndereco(Enum):
     COMERCIAL = 1
     RESIDENCIAL = 2
 
@@ -65,7 +65,7 @@ class Logradouro():
         self.tipo_logradouro = tipo_logradouro
 
 
-class TipoLogradouro(Enum)
+class TipoLogradouro(Enum):
     ALAMEDA = 1
     AVENIDA = 2
     MARGINAL = 3
