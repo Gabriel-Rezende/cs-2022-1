@@ -1,0 +1,10 @@
+site_name: Endereço Docs
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - Endereço Docs: index.md

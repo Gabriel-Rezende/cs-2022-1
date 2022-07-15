@@ -1,0 +1,11 @@
+::: models.IEndereco
+::: models.IEnderecoImpl
+::: models.Pais
+::: models.Estado
+::: models.Cidade
+::: models.Bairro
+::: models.Endereco
+::: models.TipoEndereco
+::: models.Logradouro
+::: models.TipoLogradouro
+::: models.PessoaFisica
